@@ -6,6 +6,7 @@
 
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbdalmagro&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpbdalmagro&theme=dracula)](https://github.com/jpbdalmagro/github-readme-stats)
 
 ## Tecnologias
 
@@ -15,4 +16,7 @@
     <img alingn="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alingn="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-</div>
+</div><br/>
+
+Cursando bacharel em Sistemas de Informação pela FURG(Fundação Universidade Federal de Rio Grande), apaixondo por tecnologia e buscando fazer do mundo um çugar melhor. 
+
